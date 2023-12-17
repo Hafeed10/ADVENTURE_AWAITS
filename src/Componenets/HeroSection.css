@@ -7,7 +7,7 @@ video {
   }
   
   .hero-container {
-    background: url('C:\Full cereate\lang\react-website-yt-1\src\Componenets\image\img-home.jpg') center center/cover no-repeat;
+    background: url('../../src/Componenets/image/img-home.jpg') center center/cover no-repeat;
     height: 100vh;
     width: 100%;
     display: flex;
