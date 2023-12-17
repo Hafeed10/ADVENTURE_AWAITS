@@ -3,7 +3,7 @@ import './Cards.css';
 import CardItem from '../../src/Componenets/Carditem';
 
 import card from  './image/img-1.jpg';
-import card1 from './image/img-2.jpg';
+import card1 from './image/img-9.jpg';
 import card5 from './image/img-6.jpg';
 import card6 from './image/img-7.jpg';
 import card7 from './image/img-8.jpg';
